@@ -7,7 +7,6 @@
     * [1.3 运算符](part1/1.3.md)
     * [1.4 类和对象](part1/1.4.md)
     * [1.5 类的构造方法和重载](part1/1.5.md)
-    
     * [1.6 final和abstract关键字的使用](part1/1.5.md)
 
 * [markdown语法例子](example.md)
